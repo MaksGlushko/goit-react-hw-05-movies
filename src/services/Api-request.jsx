@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = '275d01b8b22dae96d546b5217250e569'
+const API_KEY = '581db6ffc94d7a54214a956facb825d1'
 const INIT_PATH_IMAGE = 'http://image.tmdb.org/t/p/';
 const INIT_LOGO_SIZE = 'w185';
 const INIT_POSTER_SIZE_500 = 'w500';
